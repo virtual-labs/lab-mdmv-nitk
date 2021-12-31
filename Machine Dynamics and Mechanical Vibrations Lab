@@ -1,0 +1,80 @@
+{
+    "broadArea": {
+        "name": "Mechanical Engineering",
+        "link": "https://www.vlab.co.in/broad-area-mechanical-engineering"
+    },
+    "lab": "Machine Dynamics and Vibration Lab",
+    "lab_display_name": "Machine Dynamics and Vibration Lab",
+    "deployLab": true,
+    "phase": 2,
+    "collegeName": "NITS",
+    "baseUrl": "mdmv-nitk.vlabs.ac.in",
+    "introduction": "'For the things we have to learn before we can do them, we learn by doing them.' - Aristotle</br></br>Welcome to Machine Dynamics & Mechanical Vibrations Lab!!</br>Click on 'Experiments' to see the list of experiments available. Feel free to explore the lab.",
+    "experiments": [
+    {
+      "name": "Free vibration of cantilever beam",
+      "short-name": "exp-cantilever-beam-nitk",
+      "repo": "https://github.com/virtual-labs/exp-cantilever-beam-nitk",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Free vibration of simply supported beam",
+      "short-name": "exp-simply-supported-beam-nitk",
+      "repo": "https://github.com/virtual-labs/exp-simply-supported-beam-nitk",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Free vibration of fixed beam",
+      "short-name": "exp-fixed-beam-nitk",
+      "repo": "https://github.com/virtual-labs/exp-fixed-beam-nitk",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Forced vibration of SDOF system",
+      "short-name": "exp-sdof-system-nitk",
+      "repo": "https://github.com/virtual-labs/exp-sdof-system-nitk",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Base Excitation",
+      "short-name": "exp-base-excitation-nitk",
+      "repo": "https://github.com/virtual-labs/exp-base-excitation-nitk",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Rotating Unbalance",
+      "short-name": "exp-rotating-unbalance-nitk",
+      "repo": "https://github.com/virtual-labs/exp-rotating-unbalance-nitk",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "2DOF Forced vibration",
+      "short-name": "exp-forced-vibration-nitk",
+      "repo": "https://github.com/virtual-labs/exp-forced-vibration-nitk",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Dynamic Vibration Absorber",
+      "short-name": "exp-dynamic-vibration-absorber-nitk",
+      "repo": "https://github.com/virtual-labs/exp-dynamic-vibration-absorber-nitk",
+      "tag": "v1.0.0",
+      "deploy": true
+    }
+                   ],
+    "targetAudience": {
+        "UG": ["B.E/ B.Tech Mechanical Engineering, Field of Acoustics","Diploma in Mechanical Engineering"],
+        "PG": ["M.Tech/ MS in Mechanical Engineering"]
+    },
+    "objective": "After completing every simulation experiment in the Machine Dynamics Mechanical Vibration lab students can be able to</br></br>1. Find the stiffness and critical damping of the system.</br>2. Calculate the damping coefficient, logarithmic decrement, damping ratio, damping frequency, and natural frequency of the system.</br>3. Learn the effect of damping in forced vibration of a single degree of freedom due to forces.</br>4. Understand the application of force excitation on two degrees of freedom spring-mass system.</br>5. Find how to set secondary mass parameters in order to absorb primary mass vibration.",
+    "courseAlignment": {
+        "description": "Following are the courses in which one can come across the theory connected to the experiments in this lab",
+        "universities": ["Strength of Materials","Dynamics of Machines","Mechanical Vibrations"]
+    }
+}
