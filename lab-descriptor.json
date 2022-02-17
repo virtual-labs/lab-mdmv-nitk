@@ -50,7 +50,7 @@
       "name": "Rotating Unbalance",
       "short-name": "exp-rotating-unbalance-nitk",
       "repo": "https://github.com/virtual-labs/exp-rotating-unbalance-nitk",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
@@ -86,5 +86,5 @@
   },
   "exp_name": "Dynamic Vibration Absorber",
   "exp_short_name": "exp-dynamic-vibration-absorber-nitk",
-  "version": "v0.1.0"
+  "version": "v0.2.0"
 }
