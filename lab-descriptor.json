@@ -4,7 +4,7 @@
     "link": "https://www.vlab.co.in/broad-area-mechanical-engineering"
   },
   "lab": "Machine Dynamics and Vibration Lab",
-  "lab_display_name": "Machine Dynamics and Vibration Lab",
+  "lab_display_name": "Machine Dynamics and Mechanical Vibrations Lab",
   "deployLab": true,
   "phase": 2,
   "collegeName": "NITS",
@@ -15,21 +15,21 @@
       "name": "Free vibration of cantilever beam",
       "short-name": "exp-cantilever-beam-nitk",
       "repo": "https://github.com/virtual-labs/exp-cantilever-beam-nitk",
-      "tag": "v1.0.0",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Free vibration of simply supported beam",
       "short-name": "exp-simply-supported-beam-nitk",
       "repo": "https://github.com/virtual-labs/exp-simply-supported-beam-nitk",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Free vibration of fixed beam",
       "short-name": "exp-fixed-beam-nitk",
       "repo": "https://github.com/virtual-labs/exp-fixed-beam-nitk",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
@@ -50,14 +50,14 @@
       "name": "Rotating Unbalance",
       "short-name": "exp-rotating-unbalance-nitk",
       "repo": "https://github.com/virtual-labs/exp-rotating-unbalance-nitk",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "2DOF Forced vibration",
       "short-name": "exp-forced-vibration-nitk",
       "repo": "https://github.com/virtual-labs/exp-forced-vibration-nitk",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
@@ -86,5 +86,5 @@
   },
   "exp_name": "Dynamic Vibration Absorber",
   "exp_short_name": "exp-dynamic-vibration-absorber-nitk",
-  "version": "v0.2.0"
+  "version": "v0.3.0"
 }
