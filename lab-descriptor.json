@@ -1,11 +1,11 @@
 {
   "broadArea": {
     "name": "Mechanical Engineering",
-    "link": "https://www.vlab.co.in/broad-area-mechanical-engineering"
+    "link": "https://www.vlab.co.in/broad-area-mechanical-engineering",
+    "code": "MECH"
   },
   "lab": "Machine Dynamics and Vibration Lab",
   "lab_display_name": "Machine Dynamics and Mechanical Vibrations Lab",
-  "deployLab": true,
   "phase": 2,
   "collegeName": "NITK",
   "baseUrl": "mdmv-nitk.vlabs.ac.in",
