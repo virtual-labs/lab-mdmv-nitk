@@ -15,56 +15,56 @@
       "name": "Free vibration of cantilever beam",
       "short-name": "exp-cantilever-beam-nitk",
       "repo": "https://github.com/virtual-labs/exp-cantilever-beam-nitk",
-      "tag": "v1.0.2",
+      "tag": "v1.0.3",
       "deploy": true
     },
     {
       "name": "Free vibration of simply supported beam",
       "short-name": "exp-simply-supported-beam-nitk",
       "repo": "https://github.com/virtual-labs/exp-simply-supported-beam-nitk",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Free vibration of fixed beam",
       "short-name": "exp-fixed-beam-nitk",
       "repo": "https://github.com/virtual-labs/exp-fixed-beam-nitk",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Forced vibration of SDOF system",
       "short-name": "exp-sdof-system-nitk",
       "repo": "https://github.com/virtual-labs/exp-sdof-system-nitk",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Base Excitation",
       "short-name": "exp-base-excitation-nitk",
       "repo": "https://github.com/virtual-labs/exp-base-excitation-nitk",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Rotating Unbalance",
       "short-name": "exp-rotating-unbalance-nitk",
       "repo": "https://github.com/virtual-labs/exp-rotating-unbalance-nitk",
-      "tag": "v1.0.2",
+      "tag": "v1.0.3",
       "deploy": true
     },
     {
       "name": "2DOF Forced vibration",
       "short-name": "exp-forced-vibration-nitk",
       "repo": "https://github.com/virtual-labs/exp-forced-vibration-nitk",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Dynamic Vibration Absorber",
       "short-name": "exp-dynamic-vibration-absorber-nitk",
       "repo": "https://github.com/virtual-labs/exp-dynamic-vibration-absorber-nitk",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     }
   ],
@@ -83,8 +83,5 @@
       "Dynamics of Machines",
       "Mechanical Vibrations"
     ]
-  },
-  "exp_name": "Dynamic Vibration Absorber",
-  "exp_short_name": "exp-dynamic-vibration-absorber-nitk",
-  "version": "v0.4.0"
+  }
 }
